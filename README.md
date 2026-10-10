@@ -10,7 +10,7 @@
 
 ## 更新机制
 
-通过当前 Codex 聊天的每 5 天自动任务执行：多搜索引擎与官方源检索、读取公告、去重、证据核验、更新 JSON 并发布到本仓库。任务在本机 Codex 中运行，依赖本机可运行状态、网络和 GitHub 连接；不是 GitHub Actions 内置联网检索。GitHub Pages 在 main 分支提交后自动重新发布。失败不伪造最近更新时间，通知用户处理。
+通过当前 Codex 聊天的每 5 天自动任务执行：多搜索引擎与官方源检索、读取公告、去重、证据核验、更新 JSON 并发布到本仓库。任务在本机 Codex 中运行，依赖本机可运行状态、网络和 GitHub 连接；不是 GitHub Actions 内置联网检索。GitHub 连接器已发现对新仓库写入返回 403，已有 Git SSH 认证完成首次发布；后续任务优先使用 git@github.com:cricket119/crossborder-tender-radar.git 克隆最新 main，再提交并推送数据。提交身份使用 cricket119 / 256142090+cricket119@users.noreply.github.com。GitHub Pages 在 main 分支提交后自动重新发布。失败不伪造最近更新时间，通知用户处理。
 
 更新时按当地日期向前取三个日历月，将旧公告移入 `data/archive/`，滚动窗口保留相关采购、结果与变更（同一项目标包关联，不重复统计）。摘要来源与核验日期随条目记录，待核验线索独立展示。
 
