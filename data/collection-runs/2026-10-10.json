@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-10",
+  "windowStart": "2026-07-10",
+  "windowEnd": "2026-10-10",
+  "methods": [
+    "公开网络搜索（Web / TinyFish）",
+    "TinyFish批量公开页面读取及PDF文本抽取",
+    "robots-aware Python栏目采集实测：exim、nbgodo，发现3条已核验相关链接"
+  ],
+  "queryFamilies": [
+    "境外 法律顾问 采购",
+    "海外 追偿 律师 选聘",
+    "香港 IPO 法律 招标",
+    "跨境 并购 尽职调查 咨询 采购",
+    "出海 投资 国别 咨询 采购",
+    "涉外 律所 入库 招募",
+    "境外 税务 咨询 采购",
+    "数据出境 合规 咨询 采购",
+    "出口管制 制裁 合规 招标",
+    "贸易救济 反倾销 法律 采购",
+    "海外 知识产权 服务 招标",
+    "中资出海 咨询 合作伙伴 招募",
+    "legal advisory consulting request for proposals",
+    "cross border investment tax due diligence procurement"
+  ],
+  "comparison": "未访问律易采私有数据库，不能量化超过竞品；公开律采标讯为发现线索之一。",
+  "sources": [
+    {
+      "id": "ccgp",
+      "name": "中国政府采购网",
+      "url": "https://www.ccgp.gov.cn/",
+      "status": "已读取",
+      "scope": "财政部发布媒体；搜索正文和采购意向。"
+    },
+    {
+      "id": "ggzy",
+      "name": "全国公共资源交易平台",
+      "url": "https://www.ggzy.gov.cn/",
+      "status": "已读取",
+      "scope": "跨省索引；详情可回溯地方交易平台。"
+    },
+    {
+      "id": "ceb",
+      "name": "中国招标投标公共服务平台",
+      "url": "https://www.cebpubservice.com/",
+      "status": "读取受限",
+      "scope": "本轮返回405；改用域名检索和发布主体核验。"
+    },
+    {
+      "id": "szggzy",
+      "name": "深圳公共资源交易中心",
+      "url": "https://www.szggzy.com/",
+      "status": "已读取",
+      "scope": "重点追踪地方国企与跨境金融项目。"
+    },
+    {
+      "id": "szsf",
+      "name": "深圳市司法局",
+      "url": "https://sf.sz.gov.cn/ydmh/gsgg_152198/content/post_13003223.html",
+      "status": "已读取",
+      "scope": "部门自行采购也纳入；当前入口为已核验公告。"
+    },
+    {
+      "id": "fjswt",
+      "name": "福建省商务厅",
+      "url": "https://swt.fujian.gov.cn/xxgk/czzj/zbcg/202609/t20260918_7215105.htm",
+      "status": "已读取",
+      "scope": "国别指引、海外投资研究及前期询价。"
+    },
+    {
+      "id": "exim",
+      "name": "中国进出口银行集中采购",
+      "url": "http://www.eximbank.gov.cn/info/notice/jzcg/",
+      "status": "已读取",
+      "scope": "总行及各分行；境外贷款、清盘、非诉服务。"
+    },
+    {
+      "id": "chinare",
+      "name": "中再寿险（香港）采购公开",
+      "url": "https://www.chinare.com.cn/hk/ggpl/index.html",
+      "status": "已读取",
+      "scope": "含PDF；结果披露独立标注。"
+    },
+    {
+      "id": "chinalife",
+      "name": "中国人寿（海外）招标栏目",
+      "url": "https://chinalife.com.hk/zh-cn/about-us/tender",
+      "status": "已读取",
+      "scope": "海外分支机构栏目，不局限内地母公司。"
+    },
+    {
+      "id": "gf",
+      "name": "广发证券公司采购",
+      "url": "https://www.gf.com.cn/",
+      "status": "待接入",
+      "scope": "已发现转载；官方采购栏目继续追溯。"
+    },
+    {
+      "id": "cfcpn",
+      "name": "金采网",
+      "url": "https://www.cfcpn.com/",
+      "status": "读取受限",
+      "scope": "本轮超时；以银行与代理官网补齐。"
+    },
+    {
+      "id": "csg",
+      "name": "南方电网供应链平台",
+      "url": "https://www.bidding.csg.cn/",
+      "status": "已读取",
+      "scope": "能源及保险子公司，公开招标和非招标采购。"
+    },
+    {
+      "id": "cqc",
+      "name": "中国质量认证中心",
+      "url": "https://www.cqc.com.cn/www/col65/91682.html",
+      "status": "已读取",
+      "scope": "涉外法律库；当前入口为已核验公告。"
+    },
+    {
+      "id": "sinochem",
+      "name": "中化商务金融非招标公告",
+      "url": "https://e.sinochemitc.com/cms/channel/jrongywgg1qb/index.htm",
+      "status": "读取受限",
+      "scope": "本轮超时；公开索引可检索，日期须逐条核验。"
+    },
+    {
+      "id": "sinomega",
+      "name": "新诺佳公司公告",
+      "url": "https://www.sinomega-biotech.com/cn/news/s-1.htm",
+      "status": "读取受限",
+      "scope": "本轮无法连接；对应招标代理公告已读取。"
+    },
+    {
+      "id": "cntcitc",
+      "name": "中招国际公告",
+      "url": "https://www.cntcitc.com.cn/more.html?chanType=3&chanId=12",
+      "status": "已读取",
+      "scope": "代理原文和项目编号；详情可读，栏目可能动态加载。"
+    },
+    {
+      "id": "365trade",
+      "name": "中招联合招标采购平台",
+      "url": "https://www.365trade.com.cn/",
+      "status": "已读取",
+      "scope": "公开公告；文件购买流程不用于采集。"
+    },
+    {
+      "id": "nbgodo",
+      "name": "宁波国际投资咨询招标公告",
+      "url": "https://www.nbgodo.com/list.aspx?cid=56",
+      "status": "已读取",
+      "scope": "香港IPO、发行人与保荐人、境内外标包。"
+    },
+    {
+      "id": "hnzbcg",
+      "name": "河南招标采购综合网",
+      "url": "https://hnzbcg.cn/zhaobiao/",
+      "status": "已读取",
+      "scope": "行业公告原发布渠道；核验海外追偿变更。"
+    },
+    {
+      "id": "hbtba",
+      "name": "湖北省招标投标协会",
+      "url": "https://www.hbtba.com/project/view.php?id=15846",
+      "status": "已读取",
+      "scope": "境外债担保专项法律；当前入口为已核验公告。"
+    },
+    {
+      "id": "lvxun",
+      "name": "律讯网 / 律采标讯",
+      "url": "http://www.lvxunlaw.com/",
+      "status": "已读取",
+      "scope": "公开标题及周报作发现线索，回查原始公告。"
+    },
+    {
+      "id": "lbtong",
+      "name": "律标通",
+      "url": "https://www.lbtong.cn/list7.html",
+      "status": "已读取",
+      "scope": "公开法律项目摘要；不把会员遮蔽字段补造。"
+    },
+    {
+      "id": "falv",
+      "name": "法律招标网",
+      "url": "https://www.falvzhaobiao.com/",
+      "status": "已读取",
+      "scope": "法律采购与招标索引，交叉核验。"
+    },
+    {
+      "id": "qianlima",
+      "name": "千里马招标网",
+      "url": "https://www.qianlima.com/",
+      "status": "已读取",
+      "scope": "具体转载详情已读取；遮蔽字段保留未知。"
+    },
+    {
+      "id": "bidcenter",
+      "name": "采招网",
+      "url": "https://www.bidcenter.com.cn/",
+      "status": "已读取",
+      "scope": "具体列表与详情已读取；列表不直接当完整公告。"
+    },
+    {
+      "id": "ungm",
+      "name": "联合国全球采购市场 UNGM",
+      "url": "https://www.ungm.org/Public/Notice",
+      "status": "已读取",
+      "scope": "采购栏目可读；只收法律、贸易与投资等相关咨询。"
+    },
+    {
+      "id": "wbgproject",
+      "name": "世界银行项目采购",
+      "url": "https://projects.worldbank.org/en/projects-operations/procurement",
+      "status": "需动态读取",
+      "scope": "当前仅得到Loading页面，不算成功读取公告列表。"
+    },
+    {
+      "id": "wbgcorp",
+      "name": "世界银行运营咨询",
+      "url": "https://www.worldbank.org/en/about/corporate-procurement/business-opportunities/operational-consulting-opportunities",
+      "status": "已读取",
+      "scope": "栏目说明可读；具体机会还需核验详情。"
+    },
+    {
+      "id": "adb",
+      "name": "亚洲开发银行咨询机会",
+      "url": "https://www.adb.org/rss/adbbo.asp",
+      "status": "读取受限",
+      "scope": "官方CSRN入口，本轮超时；改用CMS及域名检索。"
+    }
+  ],
+  "result": {
+    "added": 10,
+    "addedProcurementOrRecruitment": 7,
+    "addedResults": 3,
+    "total": 25,
+    "leads": 5,
+    "officialRecords": 11
+  },
+  "limitations": [
+    "本轮并非所有渠道全站或三个月所有分页抓取；已读取可能仅栏目或详情。",
+    "世界银行项目列表动态空壳，ADB超时，中国公共服务平台405，金采网及中化超时，采购方官网部分不可达。",
+    "部分买方、报名邮箱、时刻未公开，保持信息不完整。"
+  ]
+}

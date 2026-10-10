@@ -5,7 +5,7 @@
     "windowEnd": "2026-10-10",
     "nextPlannedUpdate": "2026-10-15",
     "updateState": "Codex 每5天自动检索与核验任务已启用（依赖本机运行及网络）",
-    "coverage": "公开网络检索样本，不代表全网完整覆盖。日期按公告发布日期；未知字段不推断。",
+    "coverage": "多源检索与公开页面采集样本；栏目已读取不代表全站完整覆盖。招募、采购结果与前期询价分别标注。",
     "sources": [
       "政府及部门官网",
       "企业采购平台",
@@ -14,6 +14,10 @@
       "媒体与聚合平台"
     ],
     "history": [
+      {
+        "date": "2026-10-10",
+        "note": "扩源核验新增10条：7条采购/招募、3条采购结果；共25条收录、5条待核验线索。增加29个渠道信息源地图与采集记录；中原大禹项目关联期限变更。"
+      },
       {
         "date": "2026-10-10",
         "note": "首轮跨来源检索：15条采购信息，1条待核验线索。"
@@ -389,14 +393,320 @@
       "verifiedAt": "2026-10-10",
       "datePrecision": "day",
       "kind": "采购公告"
+    },
+    {
+      "title": "进出口银行山东省分行境外清盘律师服务",
+      "buyer": "中国进出口银行山东省分行",
+      "industry": "金融保险",
+      "province": "山东",
+      "city": "青岛",
+      "targets": [
+        "未明确"
+      ],
+      "service": "跨境争议解决",
+      "published": "2026-10-08",
+      "deadline": "2026-10-19T09:30:00+08:00",
+      "method": "竞争性磋商",
+      "budget": "80.63万元人民币（含境内外协办机构税费、服务费）",
+      "evidence": "官方原文",
+      "url": "http://www.eximbank.gov.cn/info/notice/jzcg/202610/t20261008_78182.html",
+      "summary": "选聘境外清盘项目律师；文件购买截至10月15日16:00，响应文件须现场递交。",
+      "projectNo": "0733-26134755",
+      "id": "CB-016",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "registrationDeadline": "2026-10-15T16:00:00+08:00"
+    },
+    {
+      "title": "进出口银行安徽省分行斯洛伐克境外投资贷款专项律师",
+      "buyer": "中国进出口银行安徽省分行",
+      "industry": "金融保险",
+      "province": "安徽",
+      "city": "合肥",
+      "targets": [
+        "斯洛伐克"
+      ],
+      "service": "跨境金融法律",
+      "published": "2026-09-30",
+      "deadline": "2026-10-21T09:30:00+08:00",
+      "method": "竞争性磋商",
+      "budget": "80万元人民币",
+      "evidence": "官方原文",
+      "url": "http://www.eximbank.gov.cn/info/notice/jzcg/202609/t20260930_78137.html",
+      "summary": "为斯洛伐克境外投资固定资产贷款选聘一家非诉讼专项律师；文件购买截至10月14日16:00。",
+      "projectNo": "0733-26134657",
+      "id": "CB-017",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "registrationDeadline": "2026-10-14T16:00:00+08:00"
+    },
+    {
+      "title": "中国再保险2026—2029年境外常年法律顾问",
+      "buyer": "中国再保险（集团）股份有限公司",
+      "industry": "金融保险",
+      "province": "北京",
+      "city": "北京",
+      "targets": [
+        "英国",
+        "欧洲大陆",
+        "北美",
+        "澳大利亚",
+        "新加坡",
+        "中国香港"
+      ],
+      "service": "境外法律顾问",
+      "published": "2026-09-09",
+      "deadline": "2026-10-09T09:30:00+08:00",
+      "method": "公开招标",
+      "budget": "不公布总预算；按小时及实际委派工作计费",
+      "evidence": "官方原文",
+      "url": "https://www.cntcitc.com.cn/more.html?chanType=3&chanId=12&contentId=58e845fd896b4243badf055a7840ddf0",
+      "summary": "拟选聘4—6家律所，服务保险合同、海外投资并购、境外经营与监管沟通，期限三年。",
+      "projectNo": "TC260V0H8",
+      "id": "CB-018",
+      "buyerType": "国企",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "registrationDeadline": "2026-09-16T16:00:00+08:00"
+    },
+    {
+      "title": "新诺佳香港IPO发行人境内律师（标项一重发）",
+      "buyer": "舟山新诺佳生物工程股份有限公司",
+      "industry": "生物医药",
+      "province": "浙江",
+      "city": "舟山",
+      "targets": [
+        "中国香港"
+      ],
+      "service": "跨境金融法律",
+      "published": "2026-09-30",
+      "deadline": "2026-10-14T09:30:00+08:00",
+      "method": "公开招标",
+      "budget": "95万元人民币（标项一最高限价）",
+      "evidence": "官方原文",
+      "url": "https://www.nbgodo.com/info.aspx?id=16875&chid=11",
+      "summary": "香港上市项目的发行人境内法律服务；本次重发仅标项一。发布日期由代理公告列表核验。",
+      "projectNo": "NBGODOZB226277-2",
+      "id": "CB-019",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "registrationDeadline": "2026-10-13T17:00:00+08:00",
+      "relatedSources": [
+        {
+          "label": "代理公告列表（发布日期）",
+          "url": "https://www.nbgodo.com/list.aspx?cid=56"
+        }
+      ]
+    },
+    {
+      "title": "新诺佳香港IPO保荐人法律顾问中标结果",
+      "buyer": "舟山新诺佳生物工程股份有限公司",
+      "industry": "生物医药",
+      "province": "浙江",
+      "city": "舟山",
+      "targets": [
+        "中国香港"
+      ],
+      "service": "跨境金融法律",
+      "published": "2026-09-30",
+      "deadline": null,
+      "method": "公开招标",
+      "budget": "境内律师90万元人民币；境外律师520万元港币（中标金额）",
+      "evidence": "官方原文",
+      "url": "https://www.nbgodo.com/info.aspx?id=16873&chid=11",
+      "summary": "保荐人境内、境外律师标项已经中标；原招标9月20日，结果公示9月30日至10月8日，供市场观察。",
+      "projectNo": "NBGODOZB226277-3",
+      "id": "CB-020",
+      "buyerType": "企业",
+      "kind": "采购结果",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day"
+    },
+    {
+      "title": "中再寿险（香港）常年法律顾问采购结果披露",
+      "buyer": "中再寿险（香港）有限公司",
+      "industry": "金融保险",
+      "province": "中国香港",
+      "city": "中国香港",
+      "targets": [
+        "未明确"
+      ],
+      "service": "境外法律顾问",
+      "published": "2026-09-14",
+      "deadline": null,
+      "method": "邀请招标",
+      "budget": "117万元港币（采购预算）",
+      "evidence": "官方原文",
+      "url": "https://www.chinare.com.cn/hk/articleFileDir/2026-09/14/3adbb677c9f947bf9fdbf625395832d6.pdf",
+      "summary": "公开表已列中选律所，供市场观察。服务国别范围未完整披露；发布日期由官网栏目核验。",
+      "projectNo": null,
+      "id": "CB-021",
+      "buyerType": "企业",
+      "kind": "采购结果",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "relatedSources": [
+        {
+          "label": "官网采购栏目（披露日期）",
+          "url": "https://www.chinare.com.cn/hk/ggpl/index.html"
+        }
+      ]
+    },
+    {
+      "title": "中再寿险（香港）2025年ORSA报告咨询采购结果",
+      "buyer": "中再寿险（香港）有限公司",
+      "industry": "金融保险",
+      "province": "中国香港",
+      "city": "中国香港",
+      "targets": [
+        "中国香港"
+      ],
+      "service": "境外风险咨询",
+      "published": "2026-09-23",
+      "deadline": null,
+      "method": "邀请招标",
+      "budget": "70万元港币（采购价格）",
+      "evidence": "官方原文",
+      "url": "https://www.chinare.com.cn/hk/articleFileDir/2026-09/23/618abfb993c14417af43629f572a45fe.pdf",
+      "summary": "境外保险机构ORSA报告咨询，已选定德勤，采购数量1次。2025年是报告年度，2026年9月23日是披露日期。",
+      "projectNo": null,
+      "id": "CB-022",
+      "buyerType": "企业",
+      "kind": "采购结果",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "relatedSources": [
+        {
+          "label": "官网采购栏目（披露日期）",
+          "url": "https://www.chinare.com.cn/hk/ggpl/index.html"
+        }
+      ]
+    },
+    {
+      "title": "中原大禹海外财产追偿全风险代理律所选聘",
+      "buyer": "中原大禹资本控股有限公司",
+      "industry": "金融保险",
+      "province": "河南",
+      "city": "郑州",
+      "targets": [
+        "未明确"
+      ],
+      "service": "跨境争议解决",
+      "published": "2026-09-20",
+      "deadline": "2026-10-23T09:30:00+08:00",
+      "method": "公开招标",
+      "budget": "三个标段合计5277.45万元人民币（公告预算）",
+      "evidence": "媒体转载",
+      "url": "https://www.sohu.com/a/1078702481_122529310",
+      "summary": "三个标段追查海外财产、诉讼与执行；9月30日变更将文件获取延至10月22日17:30，需合并阅读变更公告。",
+      "projectNo": "HNZB[2026]N0805号",
+      "id": "CB-023",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "registrationDeadline": "2026-10-22T17:30:00+08:00",
+      "relatedSources": [
+        {
+          "label": "9月30日变更公告（获取期限延长）",
+          "url": "https://hnzbcg.cn/zhaobiao/190669.html"
+        }
+      ]
+    },
+    {
+      "title": "广发证券2026—2027年度境外常年法律顾问征集",
+      "buyer": "广发证券股份有限公司",
+      "industry": "金融保险",
+      "province": "广东",
+      "city": "广州",
+      "targets": [
+        "中国香港"
+      ],
+      "service": "境外法律顾问",
+      "published": "2026-09-18",
+      "deadline": "2026-09-25T17:00:00+08:00",
+      "method": "邀请招标前供应商征集",
+      "budget": "约25万美元（最终以招标文件为准）",
+      "evidence": "媒体转载",
+      "url": "https://www.sohu.com/a/1078241641_122529310",
+      "summary": "为H股上市公司的披露与治理提供一年法律服务。9月25日为报名截止；采购发布日期由9月18日汇总交叉核验，转载9月19日。",
+      "projectNo": null,
+      "id": "CB-024",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "deadlineType": "报名截止",
+      "relatedSources": [
+        {
+          "label": "9月18日项目汇总（发布日期）",
+          "url": "https://m.sohu.com/a/1077978377_122529310/?pvid=000115_3w_a"
+        }
+      ]
+    },
+    {
+      "title": "联通（香港）创新研究院中资出海咨询合作伙伴招募",
+      "buyer": "中国联通（香港）创新研究院（标题披露）",
+      "industry": "通信科技",
+      "province": "中国香港",
+      "city": "中国香港",
+      "targets": [
+        "未明确"
+      ],
+      "service": "出海咨询",
+      "published": "2026-09-30",
+      "deadline": "2026-10-23T17:00:00+08:00",
+      "method": "公开招募",
+      "budget": "未披露；合作伙伴框架招募",
+      "evidence": "信息不完整",
+      "url": "https://gs.qianlima.com/zbcontent-635778278.html",
+      "summary": "覆盖国别研究、投资风险、海外设立、数据跨境、财税、法律与知识产权等。现已取得独立详情；联系人及递交邮箱被遮蔽，须回查联通原文。",
+      "projectNo": null,
+      "id": "CB-025",
+      "buyerType": "企业",
+      "kind": "合作伙伴招募",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "deadlineType": "申请截止"
     }
   ],
   "leads": [
     {
-      "title": "2026—2028年中国联通（香港）创新研究院中资出海咨询服务合作伙伴招募",
-      "published": "2026-09-30",
-      "url": "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-24354-440000.html",
-      "note": "仅发现列表摘要，尚未取得独立详情页、截止日期与资格条件，不计入公告统计。"
+      "title": "南航巴黎营业部专项律师服务采购",
+      "published": "2026-09-25",
+      "url": "https://www.sohu.com/a/1081603488_122529310",
+      "note": "公开周报与列表发现；尚未取得独立详情和官方响应时间。"
+    },
+    {
+      "title": "中化资本香港地区常年法律顾问（0747-2660SCCAA216）",
+      "published": "2026-09-09",
+      "url": "https://www.lbtong.cn/zhaobiao/info/83802.html",
+      "note": "公开详情已读；9月9日与9月10日转载日期存在差异，待官方核验；报价截止9月22日。"
+    },
+    {
+      "title": "哈萨克斯坦某风电配储能项目法律服务",
+      "published": "2026-09-20",
+      "url": "https://www.sohu.com/a/1078709760_122529310",
+      "note": "日期为周报期末，非已核验公告日；采购人和独立详情待核验。"
+    },
+    {
+      "title": "京港澳高速深圳段改扩建施工境外法律顾问",
+      "published": "2026-09-20",
+      "url": "https://www.sohu.com/a/1078709760_122529310",
+      "note": "日期为周报期末；TJ1、TJ3—TJ7标范围与招标详情待核验。"
+    },
+    {
+      "title": "中国联通（俄罗斯）2026年法务服务采购",
+      "published": "2026-09-20",
+      "url": "https://www.sohu.com/a/1078709760_122529310",
+      "note": "日期为周报期末；俄罗斯服务范围、独立详情及公告日待核验。"
     }
   ]
 }
