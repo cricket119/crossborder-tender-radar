@@ -1,0 +1,30 @@
+{
+  "archivedAt": "2026-10-15",
+  "reason": "公告日在本期三个月窗口之前",
+  "items": [
+    {
+      "title": "上海新微科技集团境外律师服务",
+      "buyer": "上海新微科技集团",
+      "buyerType": "企业",
+      "industry": "通信科技",
+      "province": "上海",
+      "city": "上海",
+      "targets": [
+        "中国香港"
+      ],
+      "service": "跨境金融法律",
+      "published": "2026-07-13",
+      "deadline": null,
+      "method": "自主招标",
+      "budget": "发行人≤200万美元；保荐人≤150万美元（不含税）",
+      "evidence": "媒体转载",
+      "url": "https://www.sohu.com/a/1049821284_122529310",
+      "summary": "香港H股上市境外律师采购，两包可兼投不可兼中；报名截至7月20日。",
+      "projectNo": null,
+      "id": "CB-014",
+      "verifiedAt": "2026-10-10",
+      "datePrecision": "day",
+      "kind": "采购公告"
+    }
+  ]
+}

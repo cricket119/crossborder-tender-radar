@@ -1,9 +1,9 @@
 {
   "meta": {
-    "updatedAt": "2026-10-10",
-    "windowStart": "2026-07-10",
-    "windowEnd": "2026-10-10",
-    "nextPlannedUpdate": "2026-10-15",
+    "updatedAt": "2026-10-15",
+    "windowStart": "2026-07-15",
+    "windowEnd": "2026-10-15",
+    "nextPlannedUpdate": "2026-10-20",
     "updateState": "Codex 每5天自动检索与核验任务已启用（依赖本机运行及网络）",
     "coverage": "多源检索与公开页面采集样本；栏目已读取不代表全站完整覆盖。招募、采购结果与前期询价分别标注。",
     "sources": [
@@ -14,6 +14,10 @@
       "媒体与聚合平台"
     ],
     "history": [
+      {
+        "date": "2026-10-15",
+        "note": "29渠道×14主题检索并核验公开正文：新增收录13条（含4条原线索升级），深圳指引转成交结果、中原大禹延期、广发改用官方原文；归档1条。窗口内37条，其中8条结果，另7条待核验。"
+      },
       {
         "date": "2026-10-10",
         "note": "扩源核验新增10条：7条采购/招募、3条采购结果；共25条收录、5条待核验线索。增加29个渠道信息源地图与采集记录；中原大禹项目关联期限变更。"
@@ -26,7 +30,7 @@
   },
   "items": [
     {
-      "title": "深圳市涉外法律服务指引2026编撰工作",
+      "title": "深圳市涉外法律服务指引2026编撰工作成交结果",
       "buyer": "深圳市司法局",
       "buyerType": "政府单位",
       "industry": "公共服务",
@@ -36,18 +40,24 @@
         "未明确"
       ],
       "service": "法律研究",
-      "published": "2026-09-29",
-      "deadline": "2026-10-10T09:30:00+08:00",
+      "published": "2026-10-12",
+      "deadline": null,
       "method": "公开询价",
-      "budget": "20万元人民币",
+      "budget": "原预算20万元人民币；成交19.8万元人民币",
       "evidence": "官方原文",
-      "url": "https://sf.sz.gov.cn/ydmh/gsgg_152198/content/post_13003223.html",
-      "summary": "编撰涉外法律服务指引，公开询价选聘服务商。",
+      "url": "https://sf.sz.gov.cn/xxgk/xxgkml/gsgg/content/post_13016719.html",
+      "summary": "10月12日官方披露成交供应商为深圳市前海国合法律研究院。同项目更新为采购结果，原采购公告关联保留，不重复计数。",
       "projectNo": "UHOSZSFJD2026654",
       "id": "CB-001",
-      "verifiedAt": "2026-10-10",
+      "verifiedAt": "2026-10-15",
       "datePrecision": "day",
-      "kind": "采购公告"
+      "kind": "采购结果",
+      "relatedSources": [
+        {
+          "label": "原采购公告（9月29日）",
+          "url": "https://sf.sz.gov.cn/ydmh/gsgg_152198/content/post_13003223.html"
+        }
+      ]
     },
     {
       "title": "鼎和保险2026年设立境外代表处咨询服务",
@@ -347,30 +357,6 @@
       "kind": "采购公告"
     },
     {
-      "title": "上海新微科技集团境外律师服务",
-      "buyer": "上海新微科技集团",
-      "buyerType": "企业",
-      "industry": "通信科技",
-      "province": "上海",
-      "city": "上海",
-      "targets": [
-        "中国香港"
-      ],
-      "service": "跨境金融法律",
-      "published": "2026-07-13",
-      "deadline": null,
-      "method": "自主招标",
-      "budget": "发行人≤200万美元；保荐人≤150万美元（不含税）",
-      "evidence": "媒体转载",
-      "url": "https://www.sohu.com/a/1049821284_122529310",
-      "summary": "香港H股上市境外律师采购，两包可兼投不可兼中；报名截至7月20日。",
-      "projectNo": null,
-      "id": "CB-014",
-      "verifiedAt": "2026-10-10",
-      "datePrecision": "day",
-      "kind": "采购公告"
-    },
-    {
       "title": "4.85亿元境外人民币债境外律所选聘",
       "buyer": "未完整披露",
       "buyerType": "未明确",
@@ -600,23 +586,31 @@
       ],
       "service": "跨境争议解决",
       "published": "2026-09-20",
-      "deadline": "2026-10-23T09:30:00+08:00",
+      "deadline": "2026-11-11T09:30:00+08:00",
       "method": "公开招标",
       "budget": "三个标段合计5277.45万元人民币（公告预算）",
-      "evidence": "媒体转载",
-      "url": "https://www.sohu.com/a/1078702481_122529310",
-      "summary": "三个标段追查海外财产、诉讼与执行；9月30日变更将文件获取延至10月22日17:30，需合并阅读变更公告。",
+      "evidence": "行业协会原文",
+      "url": "https://www.hnzbcg.cn/zhaobiao/189377.html",
+      "summary": "三个标段海外财产追查、诉讼与执行。10月15日第二次变更将文件获取延至11月10日17:30、投标及开标延至11月11日09:30北京时间。",
       "projectNo": "HNZB[2026]N0805号",
       "id": "CB-023",
       "buyerType": "企业",
       "kind": "采购公告",
-      "verifiedAt": "2026-10-10",
+      "verifiedAt": "2026-10-15",
       "datePrecision": "day",
-      "registrationDeadline": "2026-10-22T17:30:00+08:00",
+      "registrationDeadline": "2026-11-10T17:30:00+08:00",
       "relatedSources": [
         {
           "label": "9月30日变更公告（获取期限延长）",
           "url": "https://hnzbcg.cn/zhaobiao/190669.html"
+        },
+        {
+          "label": "10月15日变更公告2（最新期限）",
+          "url": "https://hnzbcg.cn/zhaobiao/191879.html"
+        },
+        {
+          "label": "原媒体转载备查",
+          "url": "https://www.sohu.com/a/1078702481_122529310"
         }
       ]
     },
@@ -634,20 +628,24 @@
       "deadline": "2026-09-25T17:00:00+08:00",
       "method": "邀请招标前供应商征集",
       "budget": "约25万美元（最终以招标文件为准）",
-      "evidence": "媒体转载",
-      "url": "https://www.sohu.com/a/1078241641_122529310",
-      "summary": "为H股上市公司的披露与治理提供一年法律服务。9月25日为报名截止；采购发布日期由9月18日汇总交叉核验，转载9月19日。",
+      "evidence": "官方原文",
+      "url": "https://gfjc.gf.com.cn/gyszjgg/13290.jhtml",
+      "summary": "官方9月18日公告核实：一年H股上市公司披露、企业治理和香港上市合规法律服务；9月25日17:00为供应商报名截止，并非正式投标截止。",
       "projectNo": null,
       "id": "CB-024",
       "buyerType": "企业",
       "kind": "采购公告",
-      "verifiedAt": "2026-10-10",
+      "verifiedAt": "2026-10-15",
       "datePrecision": "day",
       "deadlineType": "报名截止",
       "relatedSources": [
         {
           "label": "9月18日项目汇总（发布日期）",
           "url": "https://m.sohu.com/a/1077978377_122529310/?pvid=000115_3w_a"
+        },
+        {
+          "label": "原转载备查",
+          "url": "https://www.sohu.com/a/1078241641_122529310"
         }
       ]
     },
@@ -675,38 +673,419 @@
       "verifiedAt": "2026-10-10",
       "datePrecision": "day",
       "deadlineType": "申请截止"
+    },
+    {
+      "id": "CB-026",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": null,
+      "projectNo": "CZ2026001607",
+      "title": "南航巴黎营业部合规专项法律咨询服务",
+      "buyer": "中国南方航空股份有限公司（巴黎营业部）",
+      "industry": "交通运输",
+      "province": "法国",
+      "city": "巴黎",
+      "targets": [
+        "法国"
+      ],
+      "service": "境外法律顾问",
+      "published": "2026-09-25",
+      "method": "谈判采购",
+      "budget": "40万元人民币（不含税总价限价；按小时费率结算）",
+      "evidence": "官方原文",
+      "url": "https://www.gdebidding.com/nhqtgg/207455.jhtml",
+      "summary": "巴黎营业部一年合规专项法律服务。文件获取截至10月2日，首次报价截止10月5日23:59；公告未写明时区，暂不换算为北京时间。采购人联系地址在巴黎。"
+    },
+    {
+      "id": "CB-027",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": "2026-10-10T17:00:00+08:00",
+      "projectNo": "CZ2026001518",
+      "title": "南航阿斯塔纳营业部法律咨询服务",
+      "buyer": "南航阿斯塔纳营业部",
+      "industry": "交通运输",
+      "province": "哈萨克斯坦",
+      "city": "阿斯塔纳",
+      "targets": [
+        "哈萨克斯坦"
+      ],
+      "service": "境外法律顾问",
+      "published": "2026-10-07",
+      "method": "谈判采购",
+      "budget": "未披露",
+      "evidence": "官方原文",
+      "url": "https://www.gdebidding.com/nhqtgg/207952.jhtml",
+      "summary": "按照哈萨克斯坦法律提供一年法律咨询，满足当地营业部日常生产、办公需求。报名和响应均截至10月10日17:00北京时间；网页发布日期10月7日，报名从10月8日开始。"
+    },
+    {
+      "id": "CB-028",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": null,
+      "projectNo": null,
+      "title": "中国联通（俄罗斯）2026年法务服务采购",
+      "buyer": "中国联通（俄罗斯）运营有限公司",
+      "industry": "通信科技",
+      "province": "俄罗斯",
+      "city": "莫斯科",
+      "targets": [
+        "俄罗斯"
+      ],
+      "service": "境外法律顾问",
+      "published": "2026-09-18",
+      "method": "询比采购",
+      "budget": "未披露",
+      "evidence": "信息不完整",
+      "url": "https://www.qianlima.com/bid-632594828.html",
+      "summary": "分公司治理综合法务、通信行业许可及业务合规两包，各供应商仅可投一包。正文包括股权交易、合同、劳动用工及多语种文件服务；响应截至9月23日23:59，时区被遮蔽，暂不换算。买方地址为莫斯科；转载详情读取返回419，搜索索引保留可见正文。",
+      "relatedSources": [
+        {
+          "label": "另一独立转载详情",
+          "url": "https://www.shenjizhaobiao.com/news-d7d3f2a51b050e73bd70dad76a932a04/"
+        }
+      ]
+    },
+    {
+      "id": "CB-029",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": "2026-09-24T17:00:00+08:00",
+      "projectNo": null,
+      "title": "哈萨克斯坦某风电配储能项目法律服务",
+      "buyer": "中国中亚经济合作基金有限公司",
+      "industry": "金融保险",
+      "province": "北京",
+      "city": "北京",
+      "targets": [
+        "哈萨克斯坦"
+      ],
+      "service": "跨境并购尽调",
+      "published": "2026-09-20",
+      "registrationDeadline": "2026-09-22T17:00:00+08:00",
+      "method": "竞争性磋商",
+      "budget": "60万元人民币",
+      "evidence": "信息不完整",
+      "url": "https://www.qianlima.com/bid-632732522.html",
+      "summary": "法律尽职调查、交易文件、谈判及审批交割协助。采购方名称以采招网同项目摘要交叉核验；行业按投资基金归金融。部分联系信息遮蔽，官方基金站未能访问。",
+      "relatedSources": [
+        {
+          "label": "采购方及预算交叉证据",
+          "url": "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-5253-110102.html"
+        },
+        {
+          "label": "可见正文的另一详情",
+          "url": "https://www.yfbzb.com/inviteBid/detail/20260920_632732522.html"
+        }
+      ]
+    },
+    {
+      "id": "CB-030",
+      "buyerType": "企业",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": "2026-09-24T17:00:00+08:00",
+      "projectNo": null,
+      "title": "哈萨克斯坦某风电配储能项目财税服务",
+      "buyer": "中国中亚经济合作基金有限公司",
+      "industry": "金融保险",
+      "province": "北京",
+      "city": "北京",
+      "targets": [
+        "哈萨克斯坦"
+      ],
+      "service": "境外财税咨询",
+      "published": "2026-09-20",
+      "registrationDeadline": "2026-09-22T17:00:00+08:00",
+      "method": "竞争性磋商",
+      "budget": "50万元人民币",
+      "evidence": "信息不完整",
+      "url": "https://www.qianlima.com/bid-632736114.html",
+      "summary": "财税尽职调查、税务架构评估及交割审阅；与法律服务为独立采购，不重复合并预算。采购方由同项目公开摘要交叉核验，部分联系信息遮蔽。",
+      "relatedSources": [
+        {
+          "label": "采购人、日期及预算交叉证据",
+          "url": "https://www.bidcenter.com.cn/zhaobiao/zbkeyw-26513-110102-1.html"
+        }
+      ]
+    },
+    {
+      "id": "CB-031",
+      "buyerType": "国企",
+      "kind": "采购结果",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": null,
+      "projectNo": null,
+      "title": "京港澳深圳段TJ1、TJ3—TJ7标境外法律顾问结果",
+      "buyer": "深圳投控湾区发展有限公司",
+      "industry": "交通基础设施",
+      "province": "中国香港",
+      "city": "中国香港",
+      "targets": [
+        "未明确"
+      ],
+      "service": "境外法律顾问",
+      "published": "2026-09-28",
+      "method": "邀请采购",
+      "budget": "成交8万元港币；系统另列人民币68,398元，最终按付款日汇率",
+      "evidence": "信息不完整",
+      "url": "https://www.falvzhaobiao.com/news-3d5d8c4e48f621792fa458cb441aaf3e/",
+      "summary": "9月28日结果披露，成交价8万元港币。供应商姓名和项目编号被遮蔽；采购主体由原公告核验，地址在香港湾仔，服务法域未明确。",
+      "relatedSources": [
+        {
+          "label": "采购地址与报价说明交叉证据",
+          "url": "https://m.bidcenter.com.cn/news-1-443316310.html"
+        },
+        {
+          "label": "原9月20日采购详情",
+          "url": "https://www.falvzhaobiao.com/news-3975d1a34dd91c306fb3d9036d92826e/"
+        }
+      ]
+    },
+    {
+      "id": "CB-032",
+      "buyerType": "国企",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": "2026-10-21T09:00:00+08:00",
+      "projectNo": "HNWLCG20260911",
+      "province": "河南",
+      "city": "郑州",
+      "targets": [
+        "未明确"
+      ],
+      "budget": "未披露",
+      "evidence": "行业协会原文",
+      "title": "河南文旅投资集团法律中介机构库（含涉外业务）",
+      "buyer": "河南省文化旅游投资集团有限公司",
+      "industry": "文化旅游",
+      "service": "律所入库",
+      "published": "2026-09-30",
+      "method": "公开招标",
+      "url": "https://hnzbcg.cn/zhaobiao/190748.html",
+      "summary": "三年综合法律机构库，拟18家入库、2家候补；正文明确包括涉外业务，但未划出独立跨境标包或国别。文件获取截至10月16日，时刻未披露，故不填精确报名时刻。"
+    },
+    {
+      "id": "CB-033",
+      "buyerType": "国企",
+      "kind": "采购结果",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": null,
+      "projectNo": "CG1100022002360148",
+      "province": "广东",
+      "city": "广州",
+      "targets": [
+        "未明确"
+      ],
+      "budget": "原公告各包预计200万元、三包合计600万元；按小时费率实际结算",
+      "evidence": "官方原文",
+      "title": "南网国际（香港）2026—2028境外常年法律顾问中标结果",
+      "buyer": "南方电网国际（香港）有限公司",
+      "industry": "能源电力",
+      "service": "境外法律顾问",
+      "published": "2026-09-16",
+      "method": "公开招标结果",
+      "url": "https://www.bidding.csg.cn/zbhxrgs/1200442844.jhtml",
+      "summary": "三包分别由北京市海问、史密夫斐尔凯迈、霍金路伟驻北京代表处中标。原公告范围为境外项目开发和资产管理的法律研究、尽调及协议支持；买方联系地址广州，国别未逐项列明。结果页动态读取超时，已通过官方搜索索引全文核验。",
+      "relatedSources": [
+        {
+          "label": "8月7日采购原文与预算范围",
+          "url": "https://www.bidding.csg.cn/zbgg/1200438564.jhtml"
+        }
+      ]
+    },
+    {
+      "id": "CB-034",
+      "buyerType": "国企",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": "2026-09-15T09:00:00+08:00",
+      "projectNo": "CG1100022002376537",
+      "province": "广东",
+      "city": "广州",
+      "targets": [
+        "巴西"
+      ],
+      "budget": "表列最高限价900万元（表未明确币种）；要求美元报价及结算，换算口径待核对",
+      "evidence": "官方原文",
+      "title": "南网国际（香港）拉美电池储能绿地投标法律顾问",
+      "buyer": "南方电网国际（香港）有限公司",
+      "industry": "能源电力",
+      "service": "境外投资法律服务",
+      "published": "2026-08-24",
+      "registrationDeadline": "2026-09-01T18:00:00+08:00",
+      "method": "公开招标",
+      "url": "https://www.bidding.csg.cn/zbgg/1200440147.jhtml",
+      "summary": "提供法律尽调、投资准入及反垄断审查、谈判、监管审批、SPV设立及融资支持。标题写拉美，正文明确涉及巴西法规；容量282—690MW为工程规模，未作服务预算。"
+    },
+    {
+      "id": "CB-035",
+      "buyerType": "国企",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": "2026-09-16T09:00:00+08:00",
+      "projectNo": "CG1500022002367874（包1）",
+      "province": "广东",
+      "city": "广州",
+      "targets": [
+        "未明确"
+      ],
+      "budget": "115万元（包1最高限价；币种以原报价表为准）",
+      "evidence": "官方原文",
+      "title": "南网科研院国际业务属地化安全合规与风险咨询（包1）",
+      "buyer": "南方电网科学研究院有限责任公司",
+      "industry": "能源电力",
+      "service": "出海合规咨询",
+      "published": "2026-08-26",
+      "registrationDeadline": "2026-09-01T18:00:00+08:00",
+      "method": "公开招标",
+      "url": "https://www.bidding.csg.cn/zbgg/1200440455.jhtml",
+      "summary": "仅收包1：境外安全法规差异分析、跨国投资安全尽调及风险评估体系咨询，服务至2027年10月31日。排除同公告20万元国内新技术推广包，不把两包合并预算。"
+    },
+    {
+      "id": "CB-036",
+      "buyerType": "国企",
+      "kind": "采购公告",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": "2026-09-09T09:00:00+08:00",
+      "projectNo": "CG1100062002383793",
+      "province": "广东",
+      "city": "广州",
+      "targets": [
+        "巴西"
+      ],
+      "budget": "80万元（表列最高限价，币种以原报价文件为准）",
+      "evidence": "官方原文",
+      "title": "南网国际巴西换流站EPS项目法律顾问",
+      "buyer": "南方电网国际有限责任公司",
+      "industry": "能源电力",
+      "service": "境外投资法律服务",
+      "published": "2026-08-31",
+      "registrationDeadline": "2026-09-07T18:00:00+08:00",
+      "method": "公开谈判采购",
+      "url": "https://www.bidding.csg.cn/fzbgg/1200440871.jhtml",
+      "summary": "采购对象为律师服务：法律尽调、市场准入及长臂管辖意见、EPS协议谈判、审批与SPV设立支持。虽背景为换流站，本站收录其独立法律服务采购。"
+    },
+    {
+      "id": "CB-037",
+      "buyerType": "国企",
+      "kind": "采购结果",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": null,
+      "projectNo": "CG2000022002364519",
+      "province": "未明确",
+      "city": "未明确",
+      "targets": [
+        "东南亚",
+        "孟加拉国"
+      ],
+      "budget": "包1、包2第一候选人各报价128万元（候选报价，非最终成交额）",
+      "evidence": "官方原文",
+      "title": "南网澜湄境外投资财务测算及税务顾问候选人公示",
+      "buyer": "南方电网澜湄国际能源有限责任公司",
+      "industry": "能源电力",
+      "service": "境外财税咨询",
+      "published": "2026-09-16",
+      "method": "中标候选人公示（尚非最终定标）",
+      "url": "https://www.bidding.csg.cn/zbhxrgs/1200442934.jhtml",
+      "summary": "财务模型测算与税务投资架构两个包，致同均列第一候选人；候选人公示不等同最终中标。服务面向澜湄及东盟等境外投资，原招标文件关联保留，原文读取超时部分由官方检索正文核对。",
+      "relatedSources": [
+        {
+          "label": "8月7日采购原文（含服务国家清单）",
+          "url": "https://www.bidding.csg.cn/zbgg/1200438616.jhtml"
+        }
+      ]
+    },
+    {
+      "id": "CB-038",
+      "buyerType": "国企",
+      "kind": "采购结果",
+      "verifiedAt": "2026-10-15",
+      "datePrecision": "day",
+      "deadline": null,
+      "projectNo": "CG2000022002364729",
+      "province": "未明确",
+      "city": "未明确",
+      "targets": [
+        "未明确"
+      ],
+      "budget": "未披露",
+      "evidence": "官方原文",
+      "title": "南网澜湄境外投资法律顾问第一阶段入围候选人公示",
+      "buyer": "南方电网澜湄国际能源有限责任公司",
+      "industry": "能源电力",
+      "service": "境外法律顾问",
+      "published": "2026-09-16",
+      "method": "入围候选人公示（尚非最终入围）",
+      "url": "https://www.bidding.csg.cn/zbhxrgs/1200442904.jhtml",
+      "summary": "公布七家入围候选律所，包括金杜、阳光时代、泰和泰、大成、中伦、中联（昆明）和炜衡（重庆）。该页面为候选人公示，非仍可报名的招标；后续第二阶段采购须另读其资格条件。"
     }
   ],
   "leads": [
     {
-      "title": "南航巴黎营业部专项律师服务采购",
-      "published": "2026-09-25",
-      "url": "https://www.sohu.com/a/1081603488_122529310",
-      "note": "公开周报与列表发现；尚未取得独立详情和官方响应时间。"
-    },
-    {
       "title": "中化资本香港地区常年法律顾问（0747-2660SCCAA216）",
       "published": "2026-09-09",
       "url": "https://www.lbtong.cn/zhaobiao/info/83802.html",
-      "note": "公开详情已读；9月9日与9月10日转载日期存在差异，待官方核验；报价截止9月22日。"
+      "note": "9月9日与9月10日转载日期仍有差异；已重读律标通并交叉采招网独立详情，采购人为中化资本投资管理(香港)有限公司。官方原文未确认，保留线索，9月22日为转载报价截止。",
+      "verifiedAt": "2026-10-15"
     },
     {
-      "title": "哈萨克斯坦某风电配储能项目法律服务",
-      "published": "2026-09-20",
-      "url": "https://www.sohu.com/a/1078709760_122529310",
-      "note": "日期为周报期末，非已核验公告日；采购人和独立详情待核验。"
+      "title": "数据跨境流动规则和路径咨询服务",
+      "published": "2026-10-13",
+      "url": "https://www.yfbzb.com/inviteBid/detail/20261013_638031194.html",
+      "note": "新疆乌鲁木齐；公开摘要控制金额8.9万元。采购人、编号与报价日期被遮蔽，详情读取超时，待核验后收录。",
+      "verifiedAt": "2026-10-15"
     },
     {
-      "title": "京港澳高速深圳段改扩建施工境外法律顾问",
-      "published": "2026-09-20",
-      "url": "https://www.sohu.com/a/1078709760_122529310",
-      "note": "日期为周报期末；TJ1、TJ3—TJ7标范围与招标详情待核验。"
+      "title": "中国进出口银行广东分行DNY境外案件诉讼律师",
+      "published": null,
+      "url": "https://www.cntcitc.com.cn/more.html?chanId=12&chanType=3&contentId=87a72aa1e020494f83917e11341f4a9f",
+      "note": "官方搜索索引发现独立公告，动态读取返回proxy_error；日期及响应期限仍需逐项核验，暂不计采购统计。 线索日期为检索提示，公告日期未核实。",
+      "verifiedAt": "2026-10-15"
     },
     {
-      "title": "中国联通（俄罗斯）2026年法务服务采购",
-      "published": "2026-09-20",
-      "url": "https://www.sohu.com/a/1078709760_122529310",
-      "note": "日期为周报期末；俄罗斯服务范围、独立详情及公告日待核验。"
+      "title": "南网澜湄泰国股权及老挝输电项目第二阶段法律顾问",
+      "published": "2026-09-29",
+      "url": "https://www.bidding.csg.cn/fzbgg/1200444437.jhtml",
+      "note": "官方检索正文已读，详情读取超时。仅面向第一阶段已审核入围者；预算、两标包期限及最新结果待合并核验。",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "title": "中国安能海外市场开发及投资管理制度建设（四次）",
+      "published": null,
+      "url": "https://www.qianlima.com/bid-637311751.html",
+      "note": "索引涉及海外开发、境外投资尽调及经营制度咨询；采购主体全名、发布日期和截止尚需原文复核，暂留线索。 线索日期为检索提示，公告日期未核实。",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "title": "交银理财2027—2029法律顾问市场调研（含境外专项）",
+      "published": "2026-09-23",
+      "url": "https://www.bidcenter.com.cn/newscontent-444110477-1.html",
+      "note": "正文列境外投资合同及专项法律服务；属于市场调研，待核验采购方原文、征集期限与预算。",
+      "verifiedAt": "2026-10-15"
+    },
+    {
+      "title": "中化勘探叙利亚项目市场化出售及常年法律顾问",
+      "published": null,
+      "url": "https://www.falvzhaobiao.com/news-fb4d8b3406581ec788be802f858218d2/",
+      "note": "3412-PS202609110070，独立转载索引发现；日期仅由编号提示，非已核验公告日。待反查中化官方详情。 线索日期为检索提示，公告日期未核实。",
+      "verifiedAt": "2026-10-15"
     }
   ]
 }

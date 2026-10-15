@@ -1,0 +1,483 @@
+{
+  "date": "2026-10-15",
+  "startedAt": "2026-10-15T09:59:00Z",
+  "windowStart": "2026-07-15",
+  "windowEnd": "2026-10-15",
+  "queryFamilies": [
+    "境外 法律顾问 采购",
+    "海外 追偿 律师 选聘",
+    "香港 IPO 法律 招标",
+    "跨境 并购 尽职调查 咨询 采购",
+    "出海 投资 国别 咨询 采购",
+    "涉外 律所 入库 招募",
+    "境外 税务 咨询 采购",
+    "数据出境 合规 咨询 采购",
+    "出口管制 制裁 合规 招标",
+    "贸易救济 反倾销 法律 采购",
+    "海外 知识产权 服务 招标",
+    "中资出海 咨询 合作伙伴 招募",
+    "legal advisory consulting request for proposals",
+    "cross border investment tax due diligence procurement"
+  ],
+  "methods": [
+    "TinyFish域名检索406次：89次成功，317次因限额失败后全部改用Web Search补查",
+    "Web Search按相同域名与主题补查317项（80批），另对5条旧线索定向检索和反查官方原文",
+    "公开栏目低频robots-aware采集7个，均读取成功，发现1条候选（中原大禹变更公告2）",
+    "动态公开页每批不超过10个URL，核验正文；本期新增记录不依赖新PDF"
+  ],
+  "sources": [
+    {
+      "id": "ccgp",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取",
+        "低频robots-aware栏目发现"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 0
+    },
+    {
+      "id": "ggzy",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 2,
+      "webFallbackQueries": 0
+    },
+    {
+      "id": "ceb",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "target_http_error",
+      "status": "读取受限",
+      "note": "本轮入口读取失败：target_http_error（405）；已用域名检索补查14主题，未绕过限制。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 13
+    },
+    {
+      "id": "szggzy",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "需动态读取",
+      "note": "本轮入口读取成功，但项目列表为动态加载空壳。已完成14主题域名检索；不代表全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "szsf",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 2,
+      "webFallbackQueries": 10
+    },
+    {
+      "id": "fjswt",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 19,
+      "webFallbackQueries": 0
+    },
+    {
+      "id": "exim",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取",
+        "低频robots-aware栏目发现"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 1,
+      "webFallbackQueries": 2
+    },
+    {
+      "id": "chinare",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取",
+        "低频robots-aware栏目发现"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "chinalife",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取",
+        "低频robots-aware栏目发现"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "gf",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "proxy_error",
+      "status": "已读取",
+      "note": "广发主站代理读取失败，已取得采购平台官方征集原文，核实9月18日发布日期与9月25日报名截止。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "cfcpn",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "timeout",
+      "status": "读取受限",
+      "note": "本轮入口读取失败：timeout；已用域名检索补查14主题，未绕过限制。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "csg",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "timeout",
+      "status": "已读取",
+      "note": "入口超时；多条官方法律服务详情已读取，关联结果与财税候选公示。部分详情超时已记录，不代表全站完整覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "cqc",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "sinochem",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "sinomega",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "target_unreachable",
+      "status": "读取受限",
+      "note": "本轮入口读取失败：target_unreachable；已用域名检索补查14主题，未绕过限制。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "cntcitc",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "timeout",
+      "status": "读取受限",
+      "note": "本轮入口读取失败：timeout；已用域名检索补查14主题，未绕过限制。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "365trade",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "timeout",
+      "status": "读取受限",
+      "note": "本轮入口读取失败：timeout；已用域名检索补查14主题，未绕过限制。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "nbgodo",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取",
+        "低频robots-aware栏目发现"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "hnzbcg",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取",
+        "低频robots-aware栏目发现"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "hbtba",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "lvxun",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 2
+    },
+    {
+      "id": "lbtong",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 11,
+      "webFallbackQueries": 0
+    },
+    {
+      "id": "falv",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取",
+        "低频robots-aware栏目发现"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 4,
+      "webFallbackQueries": 10
+    },
+    {
+      "id": "qianlima",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 部分详情返回419，仅可读搜索索引正文，信息不完整单独标注。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "bidcenter",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "ungm",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "已读取",
+      "note": "本轮读取公开栏目/详情并完成14主题域名检索；只代表已读取页面，非全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "wbgproject",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "需动态读取",
+      "note": "本轮入口读取成功，但项目列表为动态加载空壳。已完成14主题域名检索；不代表全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "wbgcorp",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "success",
+      "status": "需动态读取",
+      "note": "本轮入口读取成功，但栏目指向另一个采购平台注册入口，未取得项目列表。已完成14主题域名检索；不代表全站覆盖。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    },
+    {
+      "id": "adb",
+      "methods": [
+        "14主题域名检索（TinyFish；受限查询改Web Search）",
+        "公开入口动态读取"
+      ],
+      "queryFamilies": 14,
+      "searchCompleted": 14,
+      "entryRead": "timeout",
+      "status": "读取受限",
+      "note": "本轮入口读取失败：timeout；已用域名检索补查14主题，未绕过限制。 候选须逐条人工核验，不以搜索返回数作为采购数。",
+      "tinyfishReturnedHits": 0,
+      "webFallbackQueries": 14
+    }
+  ],
+  "result": {
+    "added": 13,
+    "promotedLeads": 4,
+    "archived": 1,
+    "total": 37,
+    "procurementOrRecruitment": 29,
+    "results": 8,
+    "leads": 7
+  },
+  "importantChanges": [
+    {
+      "id": "CB-001",
+      "change": "10月12日成交，改为结果；成交19.8万元人民币"
+    },
+    {
+      "id": "CB-023",
+      "change": "10月15日第二次变更：文件获取11月10日17:30、投标11月11日09:30"
+    },
+    {
+      "id": "CB-024",
+      "change": "取得广发采购平台官方原文，证据升级"
+    },
+    {
+      "id": "CB-031",
+      "change": "由线索核验到9月28日结果；港币与人民币系统值分别注明"
+    }
+  ],
+  "limitations": [
+    "仅检索结果及所读取页面，不代表29个全站三个月全部分页完整覆盖。",
+    "搜索日期过滤有误差，旧日期和国内项目已人工排除。",
+    "世界银行项目页及深圳公共资源为动态空壳；ADB等入口超时；部分采购详情419、proxy_error或会员遮蔽。",
+    "未核实的公告日期、时区和币种保持未知；候选人公示明确不等同最终定标。",
+    "国际主题检索及UNGM栏目已读，本期没有核验到符合本网站范围的新增国际机构记录。"
+  ],
+  "completedAt": "2026-10-15T14:18:51.671156+00:00",
+  "validation": {
+    "data": "37 records, 7 leads; all in window",
+    "javascript": "node --check passed",
+    "browser": "Local result filter shows 8 / 37; source map 29 channels; unknown lead dates render explicitly"
+  }
+}
