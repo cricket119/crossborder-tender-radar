@@ -1,0 +1,493 @@
+{
+  "date": "2026-10-27",
+  "windowStart": "2026-07-27",
+  "windowEnd": "2026-10-27",
+  "methods": [
+    "29渠道×14主题406项Web域名检索，共102批，工具调用无异常；结果仍逐条校验日期和相关性",
+    "TinyFish fetch_content已尝试但工具本轮不可调用，未购买爬虫；改用Web与robots-aware公开栏目",
+    "discover.py实测7个crawl=true栏目，读取成功，2个候选为同一CF集团项目，已去重",
+    "优先回查6条旧线索；保留不完整项目，新增1条线索；反查官方详情"
+  ],
+  "queryFamilies": [
+    "境外 法律顾问 采购",
+    "海外 追偿 律师 选聘",
+    "香港 IPO 法律 招标",
+    "跨境 并购 尽职调查 咨询 采购",
+    "出海 投资 国别 咨询 采购",
+    "涉外 律所 入库 招募",
+    "境外 税务 咨询 采购",
+    "数据出境 合规 咨询 采购",
+    "出口管制 制裁 合规 招标",
+    "贸易救济 反倾销 法律 采购",
+    "海外 知识产权 服务 招标",
+    "中资出海 咨询 合作伙伴 招募",
+    "legal advisory consulting request for proposals",
+    "cross border investment tax due diligence procurement"
+  ],
+  "sources": [
+    {
+      "id": "ccgp",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "低频robots-aware栏目已读，另完成14主题检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "ggzy",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "Web已读取公开入口或详情，完成14主题域名检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "ceb",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "读取受限",
+      "note": "Web入口读取失败或超时；完成14主题域名检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "szggzy",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "读取受限",
+      "note": "Web入口读取失败或超时；完成14主题域名检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "szsf",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "Web已读取公开入口或详情，完成14主题域名检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "fjswt",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "读取受限",
+      "note": "Web入口读取失败或超时；完成14主题域名检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "exim",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "已读取",
+      "note": "robots栏目发现境外并购律师新公告，官方HTTP正文核实62.5万元及11月6日响应截止。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 1,
+      "reviewedAddedIds": [
+        "CB-045"
+      ]
+    },
+    {
+      "id": "chinare",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "低频robots-aware栏目已读，另完成14主题检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "chinalife",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "低频robots-aware栏目已读，另完成14主题检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "gf",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "Web已读取公开入口或详情，完成14主题域名检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "cfcpn",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "读取受限",
+      "note": "Web入口读取失败或超时；完成14主题域名检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "csg",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口/说明或加载空壳，机会正文库未完整取得；已补14主题检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "cqc",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "读取官方涉外建库候选结果，6家候选机构；并非已签约结论。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "sinochem",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "Web已读取公开入口或详情，完成14主题域名检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "sinomega",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "读取受限",
+      "note": "Web入口读取失败或超时；完成14主题域名检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "cntcitc",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "Web已读取公开入口或详情，完成14主题域名检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "365trade",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "读取受限",
+      "note": "Web入口读取失败或超时；完成14主题域名检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "nbgodo",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "低频robots-aware栏目已读，另完成14主题检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "hnzbcg",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "已读取",
+      "note": "低频栏目读取成功；Web入口403，变更详情可读，核对中原大禹仍11月11日响应截止。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "hbtba",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "Web已读取公开入口或详情，完成14主题域名检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "lvxun",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "读取受限",
+      "note": "Web入口读取失败或超时；完成14主题域名检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "lbtong",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "Web已读取公开入口或详情，完成14主题域名检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "falv",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "已读取",
+      "note": "低频robots-aware栏目已读，另完成14主题检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 1,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "qianlima",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "failed",
+      "status": "读取受限",
+      "note": "Web入口读取失败或超时；完成14主题域名检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "bidcenter",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "Web已读取公开入口或详情，完成14主题域名检索；不代表全站覆盖。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "ungm",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口/说明或加载空壳，机会正文库未完整取得；已补14主题检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "wbgproject",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口/说明或加载空壳，机会正文库未完整取得；已补14主题检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "wbgcorp",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口/说明或加载空壳，机会正文库未完整取得；已补14主题检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "adb",
+      "methods": [
+        "Web域名×14主题",
+        "Web公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口/说明或加载空壳，机会正文库未完整取得；已补14主题检索。 TinyFish本轮工具不可调用，已用公开栏目/Web替代。",
+      "candidateCount": 0,
+      "reviewedAddedIds": []
+    }
+  ],
+  "result": {
+    "added": 3,
+    "updatedToResult": 2,
+    "archived": 1,
+    "total": 44,
+    "results": 10,
+    "procurementOrRecruitment": 34,
+    "leads": 7
+  },
+  "addedIDs": [
+    "CB-045",
+    "CB-046",
+    "CB-047"
+  ],
+  "importantChecks": [
+    {
+      "id": "CB-045",
+      "note": "62.5万元人民币；文件11月2日16:00截止，响应11月6日09:30北京时间；未知目标国别不推定"
+    },
+    {
+      "id": "CB-046",
+      "note": "三年香港合规；无最高限价；文件10月29日17:00、响应11月3日13:30北京时间"
+    },
+    {
+      "id": "CB-047",
+      "note": "仅供应商调研，原文10月30日10:00报名截止未明确时区，deadline保持null"
+    },
+    {
+      "id": "CB-004",
+      "note": "转10月26日入围结果，6家多数名称遮蔽；小时报价非总预算；编号已按补充公告更正"
+    },
+    {
+      "id": "CB-005",
+      "note": "10月19日6家入围候选公示，不声称已签约；deadline=null"
+    }
+  ],
+  "limitations": [
+    "工具不可用、超时、405、403及动态空壳已按渠道记录；入口已读不代表全站覆盖",
+    "福州商务局顾问采购读全文未见跨境需求，排除；陆家嘴项目面向在沪外籍居民生活工作，不纳入企业出海主采购",
+    "国家电投转载实际16标段，11—16为涉外/境外，旧线索范围更正但官方及期限仍待核实",
+    "昆明IP项目已读独立公告正文并发现结果摘要，缺独立结果详情及官方原文，保留线索",
+    "国际渠道仅入口/索引读取，未核验到可收录的新法律/贸易投资采购；不将普通工程及个人职位混入",
+    "原始运行内容仅存output，不发布全文转载"
+  ],
+  "validation": {
+    "data": "44 records, 7 leads; window passed",
+    "javascript": "node --check app.js passed",
+    "results": "10 result records all deadline=null"
+  }
+}
