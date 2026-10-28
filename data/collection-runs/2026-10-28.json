@@ -1,0 +1,494 @@
+{
+  "date": "2026-10-28",
+  "windowStart": "2026-07-28",
+  "windowEnd": "2026-10-28",
+  "methods": [
+    "29渠道×14主题406项Web域名检索，102批调用完成，无工具调用异常",
+    "TinyFish search定向反查原文；fetch_content每批≤10个URL，成功与失败逐项记录",
+    "7个crawl=true栏目低频robots-aware发现：6读取、1个robots超时跳过，2个候选（1个已收录项目、1个新项目）",
+    "回查7条旧线索，升级1条；新增华电越南仲裁待核验线索"
+  ],
+  "queryFamilies": [
+    "境外 法律顾问 采购",
+    "海外 追偿 律师 选聘",
+    "香港 IPO 法律 招标",
+    "跨境 并购 尽职调查 咨询 采购",
+    "出海 投资 国别 咨询 采购",
+    "涉外 律所 入库 招募",
+    "境外 税务 咨询 采购",
+    "数据出境 合规 咨询 采购",
+    "出口管制 制裁 合规 招标",
+    "贸易救济 反倾销 法律 采购",
+    "海外 知识产权 服务 招标",
+    "中资出海 咨询 合作伙伴 招募",
+    "legal advisory consulting request for proposals",
+    "cross border investment tax due diligence procurement"
+  ],
+  "sources": [
+    {
+      "id": "ccgp",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。 discover.py低频robots-aware栏目读取成功。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "ggzy",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "ceb",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "target_http_error",
+      "status": "读取受限",
+      "note": "本轮公开入口读取失败：target_http_error；已补14主题检索。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "szggzy",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口或说明，动态项目正文库未完整取得；完成14主题检索，不视为覆盖全库。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "szsf",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "fjswt",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "exim",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。 discover.py低频robots-aware栏目读取成功。",
+      "candidates": 1,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "chinare",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。 discover.py低频robots-aware栏目读取成功。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "chinalife",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。 discover.py低频robots-aware栏目读取成功。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "gf",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "cfcpn",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "proxy_error",
+      "status": "读取受限",
+      "note": "本轮公开入口读取失败：proxy_error；已补14主题检索。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "csg",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口或说明，动态项目正文库未完整取得；完成14主题检索，不视为覆盖全库。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "cqc",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "sinochem",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "sinomega",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "target_unreachable",
+      "status": "读取受限",
+      "note": "本轮公开入口读取失败：target_unreachable；已补14主题检索。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "cntcitc",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "365trade",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "timeout",
+      "status": "读取受限",
+      "note": "本轮公开入口读取失败：timeout；已补14主题检索。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "nbgodo",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。 discover.py低频robots-aware栏目读取成功。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "hnzbcg",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "timeout",
+      "status": "读取受限",
+      "note": "robots读取超时，已跳过直接抓取；TinyFish入口也超时。仅进行14主题域名检索，不宣称正文核验成功。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "hbtba",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "lvxun",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "lbtong",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "已读栏目及北京银行外国法、FSR和外运海外独立详情；非www地址部分失败，www公开页成功。会员遮蔽字段保持未知，无绕过登录。",
+      "candidates": 0,
+      "reviewedAddedIds": [
+        "CB-049",
+        "CB-050",
+        "CB-051"
+      ]
+    },
+    {
+      "id": "falv",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取",
+        "discover.py低频robots-aware"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。 discover.py低频robots-aware栏目读取成功。 发现烟台国丰候选并反查阳光采购官方原文。",
+      "candidates": 1,
+      "reviewedAddedIds": [
+        "CB-048"
+      ]
+    },
+    {
+      "id": "qianlima",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "bidcenter",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮读到公开栏目或详情，完成14主题域名检索；不代表全站覆盖。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "ungm",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口或说明，动态项目正文库未完整取得；完成14主题检索，不视为覆盖全库。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "wbgproject",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口或说明，动态项目正文库未完整取得；完成14主题检索，不视为覆盖全库。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "wbgcorp",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "读取到入口或说明，动态项目正文库未完整取得；完成14主题检索，不视为覆盖全库。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    },
+    {
+      "id": "adb",
+      "methods": [
+        "Web域名×14主题",
+        "TinyFish公开入口读取"
+      ],
+      "queryCount": 14,
+      "searchCompleted": true,
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "已读当前CMS咨询机会表，包含发布日期和马尼拉截止时间；工程监理、个人职位及普通IT培训排除。国际贸易物流平台可研尚未取得独立范围，不计采购。",
+      "candidates": 0,
+      "reviewedAddedIds": []
+    }
+  ],
+  "result": {
+    "added": 4,
+    "promotedLeads": 1,
+    "archived": 0,
+    "total": 48,
+    "results": 10,
+    "procurementOrRecruitment": 38,
+    "leads": 7
+  },
+  "addedIDs": [
+    "CB-048",
+    "CB-049",
+    "CB-050",
+    "CB-051"
+  ],
+  "importantChecks": [
+    {
+      "id": "CB-048",
+      "note": "官方原文项目号123GFJTFWSJ2026001；两个包合计一个项目记录。原文文件11月3日17:00、响应11月17日09:00未明示时区，未擅自换算；预算不补造"
+    },
+    {
+      "id": "CB-049",
+      "note": "仅外国法标段4家，境内常法其他标段不混入；执业资格地区不直接当服务目标法域"
+    },
+    {
+      "id": "CB-050",
+      "note": "独立法律服务，欧盟FSR调查一年；200元文件费非服务预算；10月27日17:30为文件获取截止"
+    },
+    {
+      "id": "CB-051",
+      "note": "原线索升级，报价10月27日12:00，10月26日12:00仅询问截止；时区未知保持deadline=null"
+    }
+  ],
+  "limitations": [
+    "登记渠道不等于全站覆盖，栏目成功只表示读取所列页面",
+    "定向TinyFish数字编号搜索返回大量无关信息，人工排除；不把搜索日期当公告日期",
+    "未绕过会员、限流、登录与验证码；华电详情429后停止，不计采购统计",
+    "ADB当前列表已读，UNGM与世界银行仍为动态空壳/说明；未核验到符合要求的国际机构新增独立详情",
+    "没有窗口外记录需新增归档；未重新读过的旧记录保留其原verifiedAt",
+    "不发布完整转载正文，原始运行数据仅存output"
+  ],
+  "validation": {
+    "data": "48 records, 7 leads; all dates in window",
+    "javascript": "node --check app.js passed",
+    "results": "10 result records deadline=null"
+  }
+}
