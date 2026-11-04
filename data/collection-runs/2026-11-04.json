@@ -1,0 +1,372 @@
+{
+  "date": "2026-11-04",
+  "windowStart": "2026-08-04",
+  "windowEnd": "2026-11-04",
+  "queryFamilies": [
+    "境外 法律顾问 采购",
+    "海外 追偿 律师 选聘",
+    "香港 IPO 法律 招标",
+    "跨境 并购 尽职调查 咨询 采购",
+    "出海 投资 国别 咨询 采购",
+    "涉外 律所 入库 招募",
+    "境外 税务 咨询 采购",
+    "数据出境 合规 咨询 采购",
+    "出口管制 制裁 合规 招标",
+    "贸易救济 反倾销 法律 采购",
+    "海外 知识产权 服务 招标",
+    "中资出海 咨询 合作伙伴 招募",
+    "legal advisory consulting request for proposals",
+    "cross border investment tax due diligence procurement"
+  ],
+  "methods": [
+    "406项查询，102批Web工具调用无异常",
+    "TinyFish入口29个及旧线索7个回查；动态空壳与失败如实记录",
+    "7个robots-aware栏目成功读取，零候选；人工搜索发现新项目"
+  ],
+  "sources": [
+    {
+      "id": "ccgp",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取",
+        "robots-aware栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。"
+    },
+    {
+      "id": "ggzy",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "ceb",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "target_http_error",
+      "status": "读取受限",
+      "note": "本轮14主题域名检索已执行；入口失败：target_http_error，不代表全站覆盖。"
+    },
+    {
+      "id": "szggzy",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "szsf",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "target_unreachable",
+      "status": "读取受限",
+      "note": "本轮14主题域名检索已执行；入口失败：target_unreachable，不代表全站覆盖。"
+    },
+    {
+      "id": "fjswt",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "exim",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取",
+        "robots-aware栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。"
+    },
+    {
+      "id": "chinare",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取",
+        "robots-aware栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。"
+    },
+    {
+      "id": "chinalife",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取",
+        "robots-aware栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。"
+    },
+    {
+      "id": "gf",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "cfcpn",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "proxy_error",
+      "status": "读取受限",
+      "note": "本轮14主题域名检索已执行；入口失败：proxy_error，不代表全站覆盖。"
+    },
+    {
+      "id": "csg",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "cqc",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "sinochem",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "sinomega",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "proxy_error",
+      "status": "读取受限",
+      "note": "本轮14主题域名检索已执行；入口失败：proxy_error，不代表全站覆盖。"
+    },
+    {
+      "id": "cntcitc",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "proxy_error",
+      "status": "读取受限",
+      "note": "本轮14主题域名检索已执行；入口失败：proxy_error，不代表全站覆盖。"
+    },
+    {
+      "id": "365trade",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "nbgodo",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取",
+        "robots-aware栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。"
+    },
+    {
+      "id": "hnzbcg",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取",
+        "robots-aware栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。"
+    },
+    {
+      "id": "hbtba",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "lvxun",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "lbtong",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "falv",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取",
+        "robots-aware栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。"
+    },
+    {
+      "id": "qianlima",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "bidcenter",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "ungm",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "wbgproject",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "wbgcorp",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。"
+    },
+    {
+      "id": "adb",
+      "queryCount": 14,
+      "methods": [
+        "Web域名检索",
+        "TinyFish公开读取"
+      ],
+      "entryStatus": "bot_blocked",
+      "status": "读取受限",
+      "note": "本轮14主题域名检索已执行；入口失败：bot_blocked，不代表全站覆盖。"
+    }
+  ],
+  "result": {
+    "added": 3,
+    "archived": 1,
+    "total": 50,
+    "results": 10,
+    "leads": 10
+  },
+  "addedIDs": [
+    "CB-052",
+    "CB-053",
+    "CB-054"
+  ],
+  "limitations": [
+    "工具索引日期非公告日；普通工程、商品、无需求新闻排除",
+    "银行资源项目文件获取已截止，不与响应截止混淆；南航海外时区未知",
+    "国际入口UNGM/世界银行动态空壳、ADB bot_blocked，不绕过限制；未核实国际新增",
+    "旧线索会员、429或原文未取得继续保留；待核验不计采购"
+  ]
+}
