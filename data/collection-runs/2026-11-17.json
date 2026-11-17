@@ -1,0 +1,481 @@
+{
+  "date": "2026-11-17",
+  "windowStart": "2026-08-17",
+  "windowEnd": "2026-11-17",
+  "queryFamilies": [
+    "境外 法律顾问 采购",
+    "海外 追偿 律师 选聘",
+    "香港 IPO 法律 招标",
+    "跨境 并购 尽职调查 咨询 采购",
+    "出海 投资 国别 咨询 采购",
+    "涉外 律所 入库 招募",
+    "境外 税务 咨询 采购",
+    "数据出境 合规 咨询 采购",
+    "出口管制 制裁 合规 招标",
+    "贸易救济 反倾销 法律 采购",
+    "海外 知识产权 服务 招标",
+    "中资出海 咨询 合作伙伴 招募",
+    "legal advisory consulting request for proposals",
+    "cross border investment tax due diligence procurement"
+  ],
+  "methods": [
+    "406项域名及全文检索，102批调用完成；另检索近期公告、精确编号、结果及变更",
+    "TinyFish读取29个来源入口及10条原线索；已核验采集平台转载、政府原文及UNGM原文",
+    "7个robots-aware栏目中6个成功、1个HTTP失败，发现0条链接；全文检索补足候选"
+  ],
+  "sources": [
+    {
+      "id": "ccgp",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取",
+        "robots-aware低频栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对1条收录；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
+      "crawlStatus": "read",
+      "verifiedOrCrossChecked": [
+        "CB-061"
+      ],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "ggzy",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "timeout",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（timeout）；关联1条待核验线索。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": [
+        "山推乌兹、中东、比利时公司股权投资后评价咨询"
+      ]
+    },
+    {
+      "id": "ceb",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "target_http_error",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（target_http_error）。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "szggzy",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "proxy_error",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（proxy_error）。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "szsf",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "target_unreachable",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（target_unreachable）。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "fjswt",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "exim",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取",
+        "robots-aware低频栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
+      "crawlStatus": "read",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "chinare",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取",
+        "robots-aware低频栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
+      "crawlStatus": "read",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "chinalife",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取",
+        "robots-aware低频栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
+      "crawlStatus": "read",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "gf",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "cfcpn",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "proxy_error",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（proxy_error）。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "csg",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "timeout",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（timeout）。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "cqc",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "sinochem",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "target_http_error",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（target_http_error）。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "sinomega",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "proxy_error",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（proxy_error）。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "cntcitc",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "timeout",
+      "status": "已读取",
+      "note": "14主题已检索；入口读取受限（timeout），核验或交叉核对1条收录。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [
+        "CB-018"
+      ],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "365trade",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "nbgodo",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取",
+        "robots-aware低频栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
+      "crawlStatus": "read",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "hnzbcg",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取",
+        "robots-aware低频栏目"
+      ],
+      "entryStatus": "page_not_found",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（page_not_found）；robots栏目 failed（HTTPError）。仅代表已读页面及本轮检索。",
+      "crawlStatus": "failed",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "hbtba",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "timeout",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（timeout）；关联1条待核验线索。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": [
+        "湖北国际经济技术合作供应链合规手册专项法律服务"
+      ]
+    },
+    {
+      "id": "lvxun",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "lbtong",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对2条收录；关联1条待核验线索。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [
+        "CB-057",
+        "CB-058"
+      ],
+      "linkedPendingLeads": [
+        "中化资本香港地区常年法律顾问（0747-2660SCCAA216）"
+      ]
+    },
+    {
+      "id": "falv",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取",
+        "robots-aware低频栏目"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对4条收录；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
+      "crawlStatus": "read",
+      "verifiedOrCrossChecked": [
+        "CB-057",
+        "CB-058",
+        "CB-060",
+        "CB-062"
+      ],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "qianlima",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对1条收录；关联1条待核验线索。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [
+        "CB-057"
+      ],
+      "linkedPendingLeads": [
+        "昆明知识产权保护中心重点产业/行业海外知识产权保护"
+      ]
+    },
+    {
+      "id": "bidcenter",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对4条收录；关联3条待核验线索。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [
+        "CB-018",
+        "CB-055",
+        "CB-056",
+        "CB-060"
+      ],
+      "linkedPendingLeads": [
+        "交银理财2027—2029法律顾问市场调研（含境外专项）",
+        "湖北省企业出海全链条综合服务项目",
+        "郑州境外债全球协调人及境内外法律服务机构"
+      ]
+    },
+    {
+      "id": "ungm",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对2条收录。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [
+        "CB-063",
+        "CB-064"
+      ],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "wbgproject",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "wbgcorp",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "read",
+      "status": "需动态读取",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    },
+    {
+      "id": "adb",
+      "queryCount": 14,
+      "methods": [
+        "Web域名与全文检索",
+        "TinyFish公开入口读取"
+      ],
+      "entryStatus": "bot_blocked",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（bot_blocked）。仅代表已读页面及本轮检索。",
+      "verifiedOrCrossChecked": [],
+      "linkedPendingLeads": []
+    }
+  ],
+  "result": {
+    "added": 10,
+    "updated": 1,
+    "archived": 1,
+    "total": 59,
+    "results": 13,
+    "leads": 11
+  },
+  "addedIDs": [
+    "CB-055",
+    "CB-056",
+    "CB-057",
+    "CB-058",
+    "CB-059",
+    "CB-060",
+    "CB-061",
+    "CB-062",
+    "CB-063",
+    "CB-064"
+  ],
+  "updatedIDs": [
+    "CB-018"
+  ],
+  "limitations": [
+    "2条国际机构意向征集均为机构服务机会；时间按原文时区换算为北京时间",
+    "动态详情、入口超时、会员遮蔽、搜索未命中不视为未发布；未确认截止时区者保留原始时间文字",
+    "湖北出海综合服务仅有摘要，郑州境外债转载遮蔽采购人，继续列作线索"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-17",
   "note": "已读取表示本轮或首轮读到栏目或详情，不代表全站抓取完毕。待接入、读取受限及需动态读取不计为完整覆盖。国际机构仅收与法律、跨境贸易投资及企业出海有关的服务。",
   "sources": [
     {
@@ -8,9 +8,9 @@
       "group": "政府与公共资源",
       "url": "https://www.ccgp.gov.cn/",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对1条收录；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": true
     },
     {
@@ -18,10 +18,10 @@
       "name": "全国公共资源交易平台",
       "group": "政府与公共资源",
       "url": "https://www.ggzy.gov.cn/",
-      "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（timeout）；关联1条待核验线索。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -30,9 +30,9 @@
       "group": "政府与公共资源",
       "url": "https://www.cebpubservice.com/",
       "status": "读取受限",
-      "note": "本轮14主题域名检索已执行；入口失败：target_http_error，不代表全站覆盖。",
+      "note": "14主题已检索；入口读取受限（target_http_error）。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -40,10 +40,10 @@
       "name": "深圳公共资源交易中心",
       "group": "政府与公共资源",
       "url": "https://www.szggzy.com/",
-      "status": "需动态读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（proxy_error）。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -52,9 +52,9 @@
       "group": "政府与公共资源",
       "url": "https://sf.sz.gov.cn/ydmh/gsgg_152198/content/post_13003223.html",
       "status": "读取受限",
-      "note": "本轮14主题域名检索已执行；入口失败：target_unreachable，不代表全站覆盖。",
+      "note": "14主题已检索；入口读取受限（target_unreachable）。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -63,9 +63,9 @@
       "group": "政府与公共资源",
       "url": "https://swt.fujian.gov.cn/xxgk/czzj/zbcg/202609/t20260918_7215105.htm",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -74,9 +74,9 @@
       "group": "金融机构与境外子公司",
       "url": "http://www.eximbank.gov.cn/info/notice/jzcg/",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。",
+      "note": "14主题已检索；公开入口已读；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": true
     },
     {
@@ -85,9 +85,9 @@
       "group": "金融机构与境外子公司",
       "url": "https://www.chinare.com.cn/hk/ggpl/index.html",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。",
+      "note": "14主题已检索；公开入口已读；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": true
     },
     {
@@ -96,9 +96,9 @@
       "group": "金融机构与境外子公司",
       "url": "https://chinalife.com.hk/zh-cn/about-us/tender",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。",
+      "note": "14主题已检索；公开入口已读；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": true
     },
     {
@@ -107,9 +107,9 @@
       "group": "金融机构与境外子公司",
       "url": "https://gfjc.gf.com.cn/gyszjgg/13290.jhtml",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -118,9 +118,9 @@
       "group": "金融机构与境外子公司",
       "url": "https://www.cfcpn.com/",
       "status": "读取受限",
-      "note": "本轮14主题域名检索已执行；入口失败：proxy_error，不代表全站覆盖。",
+      "note": "14主题已检索；入口读取受限（proxy_error）。仅代表已读页面及本轮检索。",
       "official": false,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -128,10 +128,10 @@
       "name": "南方电网供应链平台",
       "group": "央企与企业采购",
       "url": "https://www.bidding.csg.cn/",
-      "status": "需动态读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（timeout）。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -140,9 +140,9 @@
       "group": "央企与企业采购",
       "url": "https://www.cqc.com.cn/www/col65/91682.html",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -150,10 +150,10 @@
       "name": "中化商务金融非招标公告",
       "group": "央企与企业采购",
       "url": "https://e.sinochemitc.com/cms/channel/jrongywgg1qb/index.htm",
-      "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（target_http_error）。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -162,9 +162,9 @@
       "group": "央企与企业采购",
       "url": "https://www.sinomega-biotech.com/cn/news/s-1.htm",
       "status": "读取受限",
-      "note": "本轮14主题域名检索已执行；入口失败：proxy_error，不代表全站覆盖。",
+      "note": "14主题已检索；入口读取受限（proxy_error）。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -172,10 +172,10 @@
       "name": "中招国际公告",
       "group": "招标代理与行业渠道",
       "url": "https://www.cntcitc.com.cn/more.html?chanType=3&chanId=12",
-      "status": "读取受限",
-      "note": "本轮14主题域名检索已执行；入口失败：proxy_error，不代表全站覆盖。",
+      "status": "已读取",
+      "note": "14主题已检索；入口读取受限（timeout），核验或交叉核对1条收录。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -184,9 +184,9 @@
       "group": "招标代理与行业渠道",
       "url": "https://www.365trade.com.cn/",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -195,9 +195,9 @@
       "group": "招标代理与行业渠道",
       "url": "https://www.nbgodo.com/list.aspx?cid=56",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。",
+      "note": "14主题已检索；公开入口已读；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": true
     },
     {
@@ -205,10 +205,10 @@
       "name": "河南招标采购综合网",
       "group": "招标代理与行业渠道",
       "url": "https://hnzbcg.cn/zhaobiao/",
-      "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（page_not_found）；robots栏目 failed（HTTPError）。仅代表已读页面及本轮检索。",
       "official": false,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": true
     },
     {
@@ -216,10 +216,10 @@
       "name": "湖北省招标投标协会",
       "group": "招标代理与行业渠道",
       "url": "https://www.hbtba.com/project/view.php?id=15846",
-      "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "status": "读取受限",
+      "note": "14主题已检索；入口读取受限（timeout）；关联1条待核验线索。仅代表已读页面及本轮检索。",
       "official": false,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -228,9 +228,9 @@
       "group": "专业平台与发现线索",
       "url": "http://www.lvxunlaw.com/",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
       "official": false,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -239,9 +239,9 @@
       "group": "专业平台与发现线索",
       "url": "https://www.lbtong.cn/list7.html",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对2条收录；关联1条待核验线索。仅代表已读页面及本轮检索。",
       "official": false,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -250,9 +250,9 @@
       "group": "专业平台与发现线索",
       "url": "https://www.falvzhaobiao.com/",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。 robots-aware栏目读取成功，零候选不等于无采购。",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对4条收录；robots栏目读取成功，发现0条候选。仅代表已读页面及本轮检索。",
       "official": false,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": true
     },
     {
@@ -261,9 +261,9 @@
       "group": "专业平台与发现线索",
       "url": "https://www.qianlima.com/",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对1条收录；关联1条待核验线索。仅代表已读页面及本轮检索。",
       "official": false,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -272,9 +272,9 @@
       "group": "专业平台与发现线索",
       "url": "https://www.bidcenter.com.cn/",
       "status": "已读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对4条收录；关联3条待核验线索。仅代表已读页面及本轮检索。",
       "official": false,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -282,10 +282,10 @@
       "name": "联合国全球采购市场 UNGM",
       "group": "国际机构渠道",
       "url": "https://www.ungm.org/Public/Notice",
-      "status": "需动态读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "status": "已读取",
+      "note": "14主题已检索；公开入口已读，核验或交叉核对2条收录。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -294,9 +294,9 @@
       "group": "国际机构渠道",
       "url": "https://projects.worldbank.org/en/projects-operations/procurement",
       "status": "需动态读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -305,9 +305,9 @@
       "group": "国际机构渠道",
       "url": "https://www.worldbank.org/en/about/corporate-procurement/business-opportunities/operational-consulting-opportunities",
       "status": "需动态读取",
-      "note": "本轮14主题域名检索已执行；公开入口/详情已读，仅代表所读页面，不代表全站覆盖。",
+      "note": "14主题已检索；公开入口已读。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     },
     {
@@ -316,9 +316,9 @@
       "group": "国际机构渠道",
       "url": "https://www.adb.org/rss/adbbo.asp",
       "status": "读取受限",
-      "note": "本轮14主题域名检索已执行；入口失败：bot_blocked，不代表全站覆盖。",
+      "note": "14主题已检索；入口读取受限（bot_blocked）。仅代表已读页面及本轮检索。",
       "official": true,
-      "checkedAt": "2026-11-04",
+      "checkedAt": "2026-11-17",
       "crawl": false
     }
   ],
