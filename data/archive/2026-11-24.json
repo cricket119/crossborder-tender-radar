@@ -1,0 +1,30 @@
+{
+  "archivedAt": "2026-11-24",
+  "items": [
+    {
+      "id": "CB-041",
+      "kind": "采购公告",
+      "buyerType": "企业",
+      "province": "广东",
+      "city": "广州",
+      "targets": [
+        "柬埔寨"
+      ],
+      "budget": "307万元人民币（基本代理费≤56万元，成功报酬≤251万元）",
+      "projectNo": "TC2694078",
+      "deadline": "2026-09-10T10:00:00+08:00",
+      "verifiedAt": "2026-10-20",
+      "datePrecision": "day",
+      "title": "进出口银行广东分行DNY柬埔寨仲裁执行及诉讼律师",
+      "buyer": "中国进出口银行广东省分行",
+      "industry": "金融保险",
+      "service": "跨境争议解决",
+      "published": "2026-08-20",
+      "registrationDeadline": "2026-09-07T17:00:00+08:00",
+      "method": "公开招标",
+      "evidence": "官方原文",
+      "url": "https://www.cntcitc.com.cn/more.html?chanId=12&chanType=3&contentId=87a72aa1e020494f83917e11341f4a9f",
+      "summary": "将原待核验线索补全：DNY仲裁裁决在柬埔寨法院承认与执行，并办理光纤抵押合同相关诉讼执行。TinyFish读取受限，已通过Web读取代理官方全文；公告日8月20日，非搜索发现日。"
+    }
+  ]
+}
